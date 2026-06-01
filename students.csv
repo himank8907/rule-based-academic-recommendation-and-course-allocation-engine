@@ -1,0 +1,26 @@
+name,cgpa,completed_courses,failed_courses,attendance,marks
+
+Ananya,6.5,Python;Maths,Physics,65,Python:62;Maths:72
+Aarav,8.2,Python;Maths, ,80,Python:79;Maths:78
+Riya,8.0,Maths;Python, ,88,Maths:87;Python:82
+Kunal,5.0,Python;Maths, ,60,Python:55;Maths:60
+Kabir,8.5,Python;Maths,Physics,82,Python:88;Maths:91
+Himank,9.1,Python;Maths;Data Structures, ,89,Python:90;Maths:93;Data Structures:85
+
+Rohit,8.7,Python;Maths;Data Structures, ,92,Python:88;Maths:95;Data Structures:82
+Simran,7.5,Python;Maths, ,78,Python:50;Maths:65
+Aman,6.8,Python;Maths, ,70,Python:60;Maths:70
+Neha,8.3,Python;Maths, ,85,Python:85;Maths:96
+Vikas,6.0,Python;Maths,Physics,65,Python:58;Maths:55
+
+Arjun,8.9,Python;Maths;Data Structures, ,88,Python:87;Maths:92;Data Structures:83
+Priya,7.8,Python;Maths, ,75,Python:72;Maths:76
+Sneha,9.0,Python;Maths;Data Structures, ,91,Python:91;Maths:95;Data Structures:88
+Rahul,6.9,Python;Maths, ,68,Python:65;Maths:70
+Kriti,8.4,Python;Maths, ,82,Python:84;Maths:88
+
+Aditya,7.2,Python;Maths, ,72,Python:70;Maths:71
+Meena,8.6,Python;Maths;Data Structures, ,87,Python:86;Maths:90;Data Structures:84
+Yash,9.2,Python;Maths;Data Structures, ,93,Python:92;Maths:96;Data Structures:89
+Tanya,6.5,Python;Maths, ,66,Python:60;Maths:67
+Dev,7.9,Python;Maths, ,77,Python:75;Maths:80
